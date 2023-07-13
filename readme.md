@@ -1,7 +1,13 @@
-#My first udcaity Project
+# THIS IS MY BIKESHARE PROJECT 
+This is a project about bike rentals in tree cities:
+- **Washington** 
+-  **New York** 
+-  **Chicago**.
 
-##Description
-This project is about the bikesahre in three cities mainly **Chicago**,**Washington** and **New York City**
+## DESCRIPTION
+The project aims to provide meaningful insigths on the best days and months for bike rentals to maximize profit and also provide the time to repair the brokne ones.
 
-##Outcome
-The project analyses the data on bike rentals in a company and give the best time and month for renting out.
+## ANALYSIS
+The analysis provides answer to the questions.
+
+## Finally
