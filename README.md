@@ -9,3 +9,5 @@ The project aims to provide meaningful insigths on the best days and months for 
 
 ## ANALYSIS
 The analysis provides answer to the questions.
+
+## Finally
